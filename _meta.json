@@ -6,7 +6,7 @@
   "version": "2.1.0",
   "displayName": "Mulch Self Improver",
   "description": "Token-efficient memory system using Code Mode - only 2 tools: search() and execute(). 99.9% token savings. v2.1.0 adds Smart Domain Inference.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "tags": [
     "memory",
     "learning",
